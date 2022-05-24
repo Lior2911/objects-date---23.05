@@ -78,32 +78,31 @@
 // }
 // console.log(getInOrGetOut())
 
-function getLoc(){
-  var myDate = new Date()
-  
-}
+// function getLoc(){
+//   var myDate = new Date()
 
 
+// }
+// getLoc()
 
 
-
-
-
-
-
-
-
-
+// צרו פונקציה שיוצרת תאריך רנדומלי בין 31/01/1990 ל 31/01/2022 ומדפיסה את התוצאה.
 
 // function getRandom(){
-//   var myDate = new Date();
-//   var rndDay = Math.floor(Math.random()*(31 - 1)+1)
-//   var rndMonth = Math.floor(Math.random()*(2022-1990)+1990)
+  
+//   var rndDay = Math.floor(Math.random()*(31 - 1)+1);
+//   var rndYear = Math.floor(Math.random()*(2022-1990)+1990);
+//   var rndMonth = Math.floor(Math.random()*12);
+//   var newDate = rndMonth+"/"+rndDay+"/"+rndYear;
+//   var myDate = new Date (newDate)
+//   console.log(myDate)
+ 
+// }
+// getRandom()
 
 
 
 
-  // return myDate;
 
 
  
